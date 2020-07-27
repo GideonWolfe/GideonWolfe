@@ -7,7 +7,7 @@
 </p>
 
 <details><summary>Skills 🧰</summary>
-<h1><p>
+<p>
   
 | Skills                                  |
 | --------------------------------------- |
