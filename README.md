@@ -9,12 +9,28 @@
 <details><summary>Skills 🧰</summary>
 <p>
   
+* [My Website](https://gideonwolfe.com)
+* [My Resumé](https://gideonwolfe.com/files/GideonWolfeCV.pdf)
+  
 | Skills                                  |
 | --------------------------------------- |
-| :penguin: Linux and FOSS                |
+| :penguin: Linux, various programming languages   |
 | :rocket: DevOps and System Administration |
 | :lock: Security and Hacking             |
 | :test_tube: Science and Technology      |
+
+</p>
+</details>
+
+<details><summary>Hobbies :relaxed:</summary>
+<p>
+  
+| Hobbies                                  |
+| --------------------------------------- |
+| :penguin: Linux and FOSS                |
+| :guitar: [Music](https://thedawnbombs.bandcamp.com/) |
+| :video_game: Gaming             |
+| :test_tube: Research      |
 
 </p>
 </details>
