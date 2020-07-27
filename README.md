@@ -6,12 +6,13 @@
   <img src="https://raw.githubusercontent.com/GideonWolfe/vim.reaper/master/ascii.png", width="300", height="200"/>
 </p>
 
-<details><summary>Skills 🧰</summary>
-<p>
   
 * [My Website](https://gideonwolfe.com)
 * [My Resumé](https://gideonwolfe.com/files/GideonWolfeCV.pdf)
-  
+
+<details><summary>Skills 🧰</summary>
+<p>
+
 | Skills                                  |
 | --------------------------------------- |
 | :penguin: Linux, various programming languages   |
