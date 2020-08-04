@@ -5,7 +5,11 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GideonWolfe&layout=compact&theme=tokyonight&hide_border=true", width="325"/> <br>
   <img src="https://camo.githubusercontent.com/bad2af01d251f70c8aae488ae5a5123a9bcf72b2/68747470733a2f2f676964656f6e776f6c66652e636f6d2f696d672f676e75706c6f742f7468656d696e672f342e706e67", width="800"/>
 </p>
-  
+
+<div><h1>
+<img style="vertical-align:middle" src="https://media0.giphy.com/media/xULW8N1gBOKIWuIka4/giphy.gif", width="60", />
+  <span style=""> <a href="https://gideonwolfe.com/files/GideonWolfeCV.pdf"> My Resumé </a> </span>
+</h1></div>
 
 <div><h1>
 <img style="vertical-align:middle" src="https://media3.giphy.com/media/j0HBMviGyj3JB14qtB/giphy.gif", width="60", />
