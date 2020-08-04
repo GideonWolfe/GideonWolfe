@@ -13,6 +13,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Single and Pairwise Mutations and Their Impact on SARS-CoV-2 Proteins](https://gideonwolfe.com/posts/bio/bioinfoproj/project/)
+- [Canvas in the terminal with canvas-tui](https://gideonwolfe.com/posts/workflow/canvas-tui/canvas-tui/)
+- [Agents Standing By: Notifications through Telegram](https://gideonwolfe.com/posts/sysadmin/huginn/telegram/)
+- [Email in the Terminal: Configuring Neomutt](https://gideonwolfe.com/posts/workflow/neomutt/intro/)
+- [Agents Standing By: Monitoring National Emergencies](https://gideonwolfe.com/posts/sysadmin/huginn/disasters/)
 <!-- BLOG-POST-LIST:END -->
 
 <details><summary>Skills 🧰</summary>
