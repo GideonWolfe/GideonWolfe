@@ -65,30 +65,3 @@
 
 </details>
 </div>
-
-
-  <div align="center">
-
-      <span style=""> 
-        <details><summary> <img align="center" src="https://media0.giphy.com/media/WQaUiVxSPkp4oZv5Tq/giphy.gif", width="40"/> Hobbies</summary>
-
-| Hobbies                                  |
-| --------------------------------------- |
-| :penguin: Linux and FOSS                |
-| :guitar: [Music](https://thedawnbombs.bandcamp.com/) |
-| :video_game: Gaming             |
-| :test_tube: Research      |
-
-</details>
-        <details><summary><img align="center" src="https://media0.giphy.com/media/3ohc0UIleTLl2g6PZu/giphy.gif", width="40"/> Skills </summary>
-
-| Skills                                  |
-| --------------------------------------- |
-| :penguin: Linux, various programming languages   |
-| :rocket: DevOps and System Administration |
-| :lock: Security and Hacking             |
-| :test_tube: Science and Technology      |
-
-</details>
-      </span>
-</div>
