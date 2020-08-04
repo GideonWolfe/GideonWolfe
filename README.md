@@ -72,4 +72,4 @@
 
 Header | Image
 -------|---------------
-Text   | ![](https://media0.giphy.com/media/WQaUiVxSPkp4oZv5Tq/giphy.gif)
+Text   | <img src="https://media0.giphy.com/media/WQaUiVxSPkp4oZv5Tq/giphy.gif", width="40"/>
