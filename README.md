@@ -36,8 +36,11 @@
 - [Email in the Terminal: Configuring Neomutt](https://gideonwolfe.com/posts/workflow/neomutt/intro/)
 <!-- BLOG-POST-LIST:END -->
 
-<p align="center">
-   <img align="center" src="https://i.imgur.com/imMOWII.png", width="600"/>
+
+
+
+<p>
+  <a href="https://gideonwolfe.com/"><img width="450" align='right' src="https://i.imgur.com/imMOWII.png"></a>
 </p>
 
 <div align="center">
