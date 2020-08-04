@@ -10,10 +10,10 @@
 * [My Website](https://gideonwolfe.com)
 * [My Resumé](https://gideonwolfe.com/files/GideonWolfeCV.pdf)
 
-<div>
+<div><h3>
 <img style="vertical-align:middle" src="https://media1.giphy.com/media/l0HU7JI4zIb34QM5a/giphy.gif", width="30", />
-  <span style=""><h3> Blog Posts </h3></span>
-</div>
+  <span style=""> Blog Posts</span>
+</h3></div>
 
 ###  Blog posts
 <!-- BLOG-POST-LIST:START -->
