@@ -68,7 +68,6 @@
 
 
   <div align="center">
-  <h1>
     <a href="https://gideonwolfe.com/">
         <img style="vertical-align:middle" src="https://media1.giphy.com/media/xULW8GKlriYjiarBK0/giphy.gif", width="40", />
     </a>
@@ -94,5 +93,4 @@
 
 </details>
       </span>
-  </h1>
 </div>
