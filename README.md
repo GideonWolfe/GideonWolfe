@@ -12,7 +12,7 @@
 
 <div><h3>
 <img style="vertical-align:middle" src="https://media3.giphy.com/media/j0HBMviGyj3JB14qtB/giphy.gif", width="30", />
-  <span style=""> Blog Posts</span>
+  <span style=""> <a href="https://www.gideonwolfe.com">Blog Posts</a></span>
 </h3></div>
 
 <div><h3>
