@@ -15,10 +15,10 @@
   <span style=""> <a href="https://www.gideonwolfe.com">Blog Posts</a></span>
 </h3></div>
 
-<div><h2>
-<img style="vertical-align:middle" src="https://media1.giphy.com/media/l49JJ4ttLFZDEodOg/giphy.gif", width="50", />
+<div><h1>
+<img style="vertical-align:middle" src="https://media3.giphy.com/media/j0HBMviGyj3JB14qtB/giphy.gif", width="50", />
   <span style=""> <a href="https://www.gideonwolfe.com"> My Website </a></span>
-</h2></div>
+</h1></div>
 
 <!-- BLOG-POST-LIST:START -->
 - [Single and Pairwise Mutations and Their Impact on SARS-CoV-2 Proteins](https://gideonwolfe.com/posts/bio/bioinfoproj/project/)
