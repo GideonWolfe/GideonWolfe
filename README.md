@@ -45,7 +45,6 @@
 
 
 <div>
-  <span style="vertical-align: middle;">
 
 <div align="right",>
   <br>
@@ -63,5 +62,4 @@
   <div align="absmiddle"> Linux </div>
 </div>
 
-  </span>
 </div>
