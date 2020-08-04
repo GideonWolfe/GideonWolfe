@@ -71,5 +71,5 @@
 
 
 <div align="right">
-  <img src="https://media0.giphy.com/media/WQaUiVxSPkp4oZv5Tq/giphy.gif", width="40"/>
+  <img src="https://media0.giphy.com/media/WQaUiVxSPkp4oZv5Tq/giphy.gif", width="40"/> Science and tech
 </div>
