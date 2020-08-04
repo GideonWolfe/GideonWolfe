@@ -69,11 +69,13 @@
 </details>
 </div>
 
-<div align="center">
+<div align="right">
+  
 | Hobbies                                  |
 | --------------------------------------- |
 | :penguin: Linux and FOSS                |
 | :guitar: [Music](https://thedawnbombs.bandcamp.com/) |
 | :video_game: Gaming             |
 | :test_tube: Research      |
+
 </div>
