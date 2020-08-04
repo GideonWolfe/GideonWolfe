@@ -54,7 +54,7 @@
 </div>
 
 <div align="center">
-<details><summary> <img align="center" src="https://media0.giphy.com/media/WQaUiVxSPkp4oZv5Tq/giphy.gif", width="40"/> Hobbies</summary>
+<details><summary> <img align="center" src="https://media0.giphy.com/media/WQaUiVxSPkp4oZv5Tq/giphy.gif", width="40"/> <h2>Hobbies</h2></summary>
 
 | Hobbies                                  |
 | --------------------------------------- |
