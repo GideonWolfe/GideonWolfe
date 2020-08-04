@@ -71,4 +71,13 @@
   <div align="absmiddle"> DevOps </div>
 </div>
 
+
+<div align="right",>
+  <br>
+  <a href="https://gideonwolfe.com/tags/sysadmin/">
+  <img src="https://giphy.com/stickers/livenationuk-live-nation-autumn-rocks-uk-WqFKad8NWwjRGaqF5xf", width="40"/>
+  </a>
+  <div align="absmiddle"> Music </div>
+</div>
+
 </div>
