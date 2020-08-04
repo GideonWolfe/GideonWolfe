@@ -63,12 +63,12 @@
 </div>
 
 
-<div align="right",>
+<div align="absmiddle",>
   <br>
   <a href="https://gideonwolfe.com/tags/sysadmin/">
   <img src="https://media1.giphy.com/media/WQaUiVxSPkp4oZv5Tq/giphy.gif", width="40"/>
   </a>
-  <div align="left"> DevOps </div>
+  <div align="absmiddle"> DevOps </div>
 </div>
 
 </div>
