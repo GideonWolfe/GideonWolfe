@@ -83,9 +83,16 @@
 | :test_tube: Research      |
 
 </details>
-        <a href="https://gideonwolfe.com/files/GideonWolfeCV.pdf">
-        <img style="vertical-align:middle" src="https://media0.giphy.com/media/xULW8N1gBOKIWuIka4/giphy.gif", width="40", />
-        </a>
+        <details><summary><img align="center" src="https://media0.giphy.com/media/3ohc0UIleTLl2g6PZu/giphy.gif", width="40"/> Skills </summary>
+
+| Skills                                  |
+| --------------------------------------- |
+| :penguin: Linux, various programming languages   |
+| :rocket: DevOps and System Administration |
+| :lock: Security and Hacking             |
+| :test_tube: Science and Technology      |
+
+</details>
       </span>
   </h1>
 </div>
