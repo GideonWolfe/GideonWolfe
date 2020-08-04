@@ -40,7 +40,7 @@
 
 
 <p>
-  <a href="https://gideonwolfe.com/projects/"><img width="600" align='left' src="https://i.imgur.com/imMOWII.png"></a>
+  <a href="https://gideonwolfe.com/projects/"><img width="650" align='left' src="https://i.imgur.com/imMOWII.png"></a>
 </p>
 
 
