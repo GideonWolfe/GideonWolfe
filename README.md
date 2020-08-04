@@ -49,5 +49,5 @@
 <div align="right">
   <br>
   <img src="https://media0.giphy.com/media/WQaUiVxSPkp4oZv5Tq/giphy.gif", width="40"/> 
-  <span style="vertical-align: middle;">Here is some text.</span>
+  <div align="absmiddle"> Science </div>
 </div>
