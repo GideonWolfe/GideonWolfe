@@ -11,7 +11,7 @@
 * [My Resumé](https://gideonwolfe.com/files/GideonWolfeCV.pdf)
 
 <div><h3>
-<img style="vertical-align:middle" src="https://media1.giphy.com/media/l0HU7JI4zIb34QM5a/giphy.gif", width="30", />
+<img style="vertical-align:middle" src="https://media3.giphy.com/media/j0HBMviGyj3JB14qtB/giphy.gif", width="30", />
   <span style=""> Blog Posts</span>
 </h3></div>
 
