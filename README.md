@@ -40,7 +40,7 @@
    <img align="center" src="https://i.imgur.com/imMOWII.png", width="600"/>
 </p>
 
-<div>
+<div align="left">
 <details><summary><img align="center" src="https://media0.giphy.com/media/3ohc0UIleTLl2g6PZu/giphy.gif", width="40"/> Skills </summary>
 
 | Skills                                  |
@@ -53,6 +53,7 @@
 </details>
 </div>
 
+<div align="right">
 <details><summary> <img align="center" src="https://media0.giphy.com/media/WQaUiVxSPkp4oZv5Tq/giphy.gif", width="40"/> Hobbies</summary>
 
 | Hobbies                                  |
@@ -63,3 +64,4 @@
 | :test_tube: Research      |
 
 </details>
+</div>
