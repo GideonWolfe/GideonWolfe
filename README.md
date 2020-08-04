@@ -70,6 +70,6 @@
 </div>
 
 
-Header | Image
--------|---------------
-Text   | <img src="https://media0.giphy.com/media/WQaUiVxSPkp4oZv5Tq/giphy.gif", width="40"/>
+<div align="right">
+  <img src="https://media0.giphy.com/media/WQaUiVxSPkp4oZv5Tq/giphy.gif", width="40"/>
+</div>
