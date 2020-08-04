@@ -1,7 +1,4 @@
 
-<img src="https://media3.giphy.com/media/CaiVJuZGvR8HK/giphy.gif?cid=ecf05e475oh7je1yz49ufk2f5n780aepd2i0hup3ngbihsvl&rid=giphy.gif"/>
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/GideonWolfe/vim.reaper/master/ascii.png", width="300", height="200"/> <br>
    <img src="https://github-readme-stats.vercel.app/api?username=GideonWolfe&show_icons=true&hide_border=true&count_private=true&theme=tokyonight", width="400"/>
@@ -15,7 +12,7 @@
 * [My Resumé](https://gideonwolfe.com/files/GideonWolfeCV.pdf)
 
 
-### 📘 Blog posts <img src=https://media1.giphy.com/media/l0HU7JI4zIb34QM5a/giphy.gif/>
+### 📘 Blog posts <img src=https://media1.giphy.com/media/l0HU7JI4zIb34QM5a/giphy.gif />
 <!-- BLOG-POST-LIST:START -->
 - [Single and Pairwise Mutations and Their Impact on SARS-CoV-2 Proteins](https://gideonwolfe.com/posts/bio/bioinfoproj/project/)
 - [Canvas in the terminal with canvas-tui](https://gideonwolfe.com/posts/workflow/canvas-tui/canvas-tui/)
