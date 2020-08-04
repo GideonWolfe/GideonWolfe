@@ -40,11 +40,11 @@
 
 
 <p>
-  <a href="https://gideonwolfe.com/"><img width="450" align='right' src="https://i.imgur.com/imMOWII.png"></a>
+  <a href="https://gideonwolfe.com/"><img width="550" align='right' src="https://i.imgur.com/imMOWII.png"></a>
 </p>
 
-<div align="left">
-<details><summary><img align="left" src="https://media0.giphy.com/media/3ohc0UIleTLl2g6PZu/giphy.gif", width="40"/> Skills </summary>
+<div align="right">
+<details><summary><img align="right" src="https://media0.giphy.com/media/3ohc0UIleTLl2g6PZu/giphy.gif", width="40"/> Skills </summary>
 
 | Skills                                  |
 | --------------------------------------- |
@@ -56,8 +56,8 @@
 </details>
 </div>
 
-<div align="left">
-<details><summary> <img align="left" src="https://media0.giphy.com/media/WQaUiVxSPkp4oZv5Tq/giphy.gif", width="40"/>Hobbies</summary>
+<div align="right">
+<details><summary> <img align="right" src="https://media0.giphy.com/media/WQaUiVxSPkp4oZv5Tq/giphy.gif", width="40"/>Hobbies</summary>
 
 | Hobbies                                  |
 | --------------------------------------- |
