@@ -21,6 +21,8 @@
 - [Agents Standing By: Monitoring National Emergencies](https://gideonwolfe.com/posts/sysadmin/huginn/disasters/)
 <!-- BLOG-POST-LIST:END -->
 
+<img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
+
 <details><summary>🧰 Skills</summary>
 <p>
 
