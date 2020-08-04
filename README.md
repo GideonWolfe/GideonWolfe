@@ -73,7 +73,16 @@
         <img style="vertical-align:middle" src="https://media1.giphy.com/media/xULW8GKlriYjiarBK0/giphy.gif", width="40", />
     </a>
       <span style=""> 
-        <a href="https://gideonwolfe.com"> My Website </a> - <a href="https://gideonwolfe.com/files/GideonWolfeCV.pdf"> My Resumé </a>
+        <details><summary> <img align="center" src="https://media0.giphy.com/media/WQaUiVxSPkp4oZv5Tq/giphy.gif", width="40"/> Hobbies</summary>
+
+| Hobbies                                  |
+| --------------------------------------- |
+| :penguin: Linux and FOSS                |
+| :guitar: [Music](https://thedawnbombs.bandcamp.com/) |
+| :video_game: Gaming             |
+| :test_tube: Research      |
+
+</details>
         <a href="https://gideonwolfe.com/files/GideonWolfeCV.pdf">
         <img style="vertical-align:middle" src="https://media0.giphy.com/media/xULW8N1gBOKIWuIka4/giphy.gif", width="40", />
         </a>
