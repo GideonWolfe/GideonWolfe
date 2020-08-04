@@ -49,7 +49,7 @@
 
 <div align="right",>
   <br>
-  <img src="https://media0.giphy.com/media/WQaUiVxSPkp4oZv5Tq/giphy.gif", width="40"/> 
+  <img src="https://media2.giphy.com/media/Q8OkHl4VgQ2j5g3aNU/giphy.gif", width="40"/> 
   <div align="absmiddle"> Science </div>
 </div>
 
