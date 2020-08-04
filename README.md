@@ -11,7 +11,8 @@
   <h1>
     <img style="vertical-align:middle" src="https://media1.giphy.com/media/xULW8GKlriYjiarBK0/giphy.gif", width="60", />
       <span style=""> 
-        <a href="https://www.gideonwolfe.com"> My Website </a> - <a href="https://gideonwolfe.com/files/GideonWolfeCV.pdf"> My Resumé </a><img style="vertical-align:middle" src="https://media0.giphy.com/media/xULW8N1gBOKIWuIka4/giphy.gif", width="40", />
+        <a href="https://www.gideonwolfe.com"> My Website </a> - <a href="https://gideonwolfe.com/files/GideonWolfeCV.pdf"> My Resumé </a>
+        <img style="vertical-align:middle" src="https://media0.giphy.com/media/xULW8N1gBOKIWuIka4/giphy.gif", width="40", />
       </span>
   </h1>
 </div>
