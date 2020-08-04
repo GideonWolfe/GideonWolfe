@@ -52,7 +52,7 @@
   <div align="absmiddle"> Science </div>
 </div>
 
-<div align="right">
+<div align="left">
   <br>
   <img src="https://media0.giphy.com/media/l0HU4vCCdtME0RZlu/giphy.gif", width="40"/> 
   <div align="absmiddle"> Linux </div>
