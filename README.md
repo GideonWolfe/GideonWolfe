@@ -16,7 +16,7 @@
 </h3></div>
 
 <div><h1>
-<img style="vertical-align:middle" src="https://media3.giphy.com/media/j0HBMviGyj3JB14qtB/giphy.gif", width="50", />
+<img style="vertical-align:middle" src="https://media3.giphy.com/media/j0HBMviGyj3JB14qtB/giphy.gif", width="60", />
   <span style=""> <a href="https://www.gideonwolfe.com"> My Website </a></span>
 </h1></div>
 
