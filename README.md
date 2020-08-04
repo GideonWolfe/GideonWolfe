@@ -57,7 +57,7 @@
 <div align="right",>
   <br>
   <a href="https://gideonwolfe.com/tags/linux/">
-  <img src="https://media0.giphy.com/media/l0HU4vCCdtME0RZlu/giphy.gif", width="40"/>
+  <img src="https://media1.giphy.com/media/xULW8HCHUIz9EuOhb2/giphy.gif", width="40"/>
   </a>
   <div align="absmiddle"> Linux </div>
 </div>
@@ -74,10 +74,12 @@
 
 <div align="right",>
   <br>
-  <a href="https://gideonwolfe.com/tags/sysadmin/">
-  <img src="https://media1.giphy.com/media/xULW8HCHUIz9EuOhb2/giphy.gif", width="40"/>
+  <a href="https://open.spotify.com/artist/07utP4RAHF10j0QPKAGF7A">
+  <img src="https://media0.giphy.com/media/l0HU4vCCdtME0RZlu/giphy.gif", width="40"/>
   </a>
   <div align="absmiddle"> Music </div>
 </div>
+
+
 
 </div>
