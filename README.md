@@ -40,7 +40,7 @@
 
 
 <p>
-  <a href="https://gideonwolfe.com/"><img width="550" align='left' src="https://i.imgur.com/imMOWII.png"></a>
+  <a href="https://gideonwolfe.com/"><img width="500" align='left' src="https://i.imgur.com/imMOWII.png"></a>
 </p>
 
 <div align="right">
@@ -54,7 +54,6 @@
 | :test_tube: Science and Technology      |
 
 </details>
-<br>
 </div>
 
 <div align="right">
