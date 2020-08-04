@@ -9,6 +9,7 @@
   <img src="https://camo.githubusercontent.com/bad2af01d251f70c8aae488ae5a5123a9bcf72b2/68747470733a2f2f676964656f6e776f6c66652e636f6d2f696d672f676e75706c6f742f7468656d696e672f342e706e67", width="800"/>
 </p>
   
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GideonWolfe&repo=vim.reaper)](https://github.com/anuraghazra/github-readme-stats)
   
 * [My Website](https://gideonwolfe.com)
 * [My Resumé](https://gideonwolfe.com/files/GideonWolfeCV.pdf)
