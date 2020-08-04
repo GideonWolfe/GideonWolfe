@@ -13,11 +13,6 @@
   <span style=""> <a href="https://www.gideonwolfe.com"> My Website </a></span>
 </h1></div>
 
-<div><h2>
-<img style="vertical-align:middle" src="https://media0.giphy.com/media/xULW8N1gBOKIWuIka4/giphy.gif", width="40", />
-  <span style=""> <a href="https://gideonwolfe.com/files/GideonWolfeCV.pdf"> My Resumé </a> </span>
-</h2></div>
-
 <!-- BLOG-POST-LIST:START -->
 - [Single and Pairwise Mutations and Their Impact on SARS-CoV-2 Proteins](https://gideonwolfe.com/posts/bio/bioinfoproj/project/)
 - [Canvas in the terminal with canvas-tui](https://gideonwolfe.com/posts/workflow/canvas-tui/canvas-tui/)
@@ -25,6 +20,11 @@
 - [Email in the Terminal: Configuring Neomutt](https://gideonwolfe.com/posts/workflow/neomutt/intro/)
 - [Agents Standing By: Monitoring National Emergencies](https://gideonwolfe.com/posts/sysadmin/huginn/disasters/)
 <!-- BLOG-POST-LIST:END -->
+
+<div><h2>
+<img style="vertical-align:middle" src="https://media0.giphy.com/media/xULW8N1gBOKIWuIka4/giphy.gif", width="40", />
+  <span style=""> <a href="https://gideonwolfe.com/files/GideonWolfeCV.pdf"> My Resumé </a> </span>
+</h2></div>
 
 <details><summary>🧰 Skills</summary>
 <p>
