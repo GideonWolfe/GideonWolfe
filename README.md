@@ -61,3 +61,24 @@
 
   </span>
 </div>
+
+<div>
+<div style="float:left;width:45%;" >
+    <span>source list</span>
+    <select size="10">
+        <option />
+        <option />
+        <option />
+    </select>
+</div>
+
+<div style="float:right;width:45%;">
+    <span>destination list</span>
+    <select size="10">
+        <option />
+        <option />
+        <option />
+    </select>
+</div>
+<div style="clear:both; font-size:1px;"></div>
+</div>
