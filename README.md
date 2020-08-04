@@ -15,6 +15,11 @@
   <span style=""> Blog Posts</span>
 </h3></div>
 
+<div><h3>
+<img style="vertical-align:middle" src="https://media1.giphy.com/media/l49JJ4ttLFZDEodOg/giphy.gif", width="30", />
+  <span style=""> My Website</span>
+</h3></div>
+
 <!-- BLOG-POST-LIST:START -->
 - [Single and Pairwise Mutations and Their Impact on SARS-CoV-2 Proteins](https://gideonwolfe.com/posts/bio/bioinfoproj/project/)
 - [Canvas in the terminal with canvas-tui](https://gideonwolfe.com/posts/workflow/canvas-tui/canvas-tui/)
