@@ -7,11 +7,9 @@
 </p>
   
 
-* [My Resumé](https://gideonwolfe.com/files/GideonWolfeCV.pdf)
-
 <div><h1>
 <img style="vertical-align:middle" src="https://media3.giphy.com/media/j0HBMviGyj3JB14qtB/giphy.gif", width="60", />
-  <span style=""> <a href="https://www.gideonwolfe.com"> My Website </a> - <a href="https://www.gideonwolfe.com"> My Resumé </a> </span>
+  <span style=""> <a href="https://www.gideonwolfe.com"> My Website </a> - <a href="https://gideonwolfe.com/files/GideonWolfeCV.pdf"> My Resumé </a> </span>
 </h1></div>
 
 <!-- BLOG-POST-LIST:START -->
