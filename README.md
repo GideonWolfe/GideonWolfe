@@ -50,7 +50,7 @@
 <div align="right",>
   <br>
   <a href="https://gideonwolfe.com/tags/science/">
-  <img src="https://media2.giphy.com/media/Q8OkHl4VgQ2j5g3aNU/giphy.gif", width="40"/> 
+  <img src="https://media2.giphy.com/media/Q8OkHl4VgQ2j5g3aNU/giphy.gif", width="40", style="padding-right:150px;"/> 
   <a/>
   <div align="absmiddle"> Science </div>
 </div>
