@@ -68,9 +68,7 @@
 
 
   <div align="center">
-    <a href="https://gideonwolfe.com/">
-        <img style="vertical-align:middle" src="https://media1.giphy.com/media/xULW8GKlriYjiarBK0/giphy.gif", width="40", />
-    </a>
+
       <span style=""> 
         <details><summary> <img align="center" src="https://media0.giphy.com/media/WQaUiVxSPkp4oZv5Tq/giphy.gif", width="40"/> Hobbies</summary>
 
