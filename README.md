@@ -75,7 +75,7 @@
 <div align="right",>
   <br>
   <a href="https://gideonwolfe.com/tags/sysadmin/">
-  <img src="https://media3.giphy.com/media/WqFKad8NWwjRGaqF5x/giphy.gif", width="40"/>
+  <img src="https://media1.giphy.com/media/xULW8HCHUIz9EuOhb2/giphy.gif", width="40"/>
   </a>
   <div align="absmiddle"> Music </div>
 </div>
