@@ -10,8 +10,6 @@
 * [My Website](https://gideonwolfe.com)
 * [My Resumé](https://gideonwolfe.com/files/GideonWolfeCV.pdf)
 
-<p><img src="https://media1.giphy.com/media/l0HU7JI4zIb34QM5a/giphy.gif", width="30", /> </p>
-
 
 ### <p><img src="https://media1.giphy.com/media/l0HU7JI4zIb34QM5a/giphy.gif", width="30", /> </p> Blog posts
 <!-- BLOG-POST-LIST:START -->
