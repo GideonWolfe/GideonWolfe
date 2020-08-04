@@ -47,10 +47,10 @@
 <div>
   <span style="vertical-align: middle;">
 
-<div align="right", style="padding-right:150px;">
+<div align="right",>
   <br>
   <a href="https://gideonwolfe.com/tags/science/">
-  <img src="https://media2.giphy.com/media/Q8OkHl4VgQ2j5g3aNU/giphy.gif", width="40", /> 
+  <img src="https://media2.giphy.com/media/Q8OkHl4VgQ2j5g3aNU/giphy.gif", width="40", style="vertical-align:middle;margin:0px 50px">/> 
   <a/>
   <div align="absmiddle"> Science </div>
 </div>
