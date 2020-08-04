@@ -24,6 +24,11 @@
 
 <img align="left" width="500" src="https://i.imgur.com/imMOWII.png">
 
+<p align="center">
+   <img src="https://camo.githubusercontent.com/bad2af01d251f70c8aae488ae5a5123a9bcf72b2/68747470733a2f2f676964656f6e776f6c66652e636f6d2f696d672f676e75706c6f742f7468656d696e672f342e706e67", width="400"/>
+   <img src="https://i.imgur.com/imMOWII.png", width="400"/>
+</p>
+
 
 <details><summary>🧰 Skills</summary>
 <p>
