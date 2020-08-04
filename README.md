@@ -62,4 +62,13 @@
   <div align="absmiddle"> Linux </div>
 </div>
 
+
+<div align="right",>
+  <br>
+  <a href="https://gideonwolfe.com/tags/sysadmin/">
+  <img src="https://media1.giphy.com/media/WQaUiVxSPkp4oZv5Tq/giphy.gif", width="40"/>
+  </a>
+  <div align="absmiddle"> DevOps </div>
+</div>
+
 </div>
