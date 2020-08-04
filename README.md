@@ -43,31 +43,7 @@
   <a href="https://gideonwolfe.com/"><img width="500" align='left' src="https://i.imgur.com/imMOWII.png"></a>
 </p>
 
-<div align="right">
-<details><summary><img align="right" src="https://media0.giphy.com/media/3ohc0UIleTLl2g6PZu/giphy.gif", width="40"/> Skills </summary>
 
-| Skills                                  |
-| --------------------------------------- |
-| :penguin: Linux, various programming languages   |
-| :rocket: DevOps and System Administration |
-| :lock: Security and Hacking             |
-| :test_tube: Science and Technology      |
-
-</details>
-</div>
-
-<div align="right">
-<details><summary> <img align="right" src="https://media0.giphy.com/media/WQaUiVxSPkp4oZv5Tq/giphy.gif", width="40"/>Hobbies</summary>
-
-| Hobbies                                  |
-| --------------------------------------- |
-| :penguin: Linux and FOSS                |
-| :guitar: [Music](https://thedawnbombs.bandcamp.com/) |
-| :video_game: Gaming             |
-| :test_tube: Research      |
-
-</details>
-</div>
 
 
 <div align="right">
