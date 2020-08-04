@@ -54,6 +54,7 @@
 | :test_tube: Science and Technology      |
 
 </details>
+<br>
 </div>
 
 <div align="right">
