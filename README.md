@@ -65,5 +65,3 @@
 
 </details>
 </div>
-
-credit to @dyanapyehchek for the stickers
