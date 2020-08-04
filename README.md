@@ -57,7 +57,9 @@
 
 <div align="right",>
   <br>
-  <img src="https://media0.giphy.com/media/l0HU4vCCdtME0RZlu/giphy.gif", width="40"/> 
+  <a href="https://gideonwolfe.com/tags/linux/">
+  <img src="https://media0.giphy.com/media/l0HU4vCCdtME0RZlu/giphy.gif", width="40"/>
+  </a>
   <div align="absmiddle"> Linux </div>
 </div>
 
