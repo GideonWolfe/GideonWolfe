@@ -47,13 +47,13 @@
 <div>
   <span style="vertical-align: middle;">
 
-<div align="right", style="float:left;width:45%;">
+<div align="right",>
   <br>
   <img src="https://media0.giphy.com/media/WQaUiVxSPkp4oZv5Tq/giphy.gif", width="40"/> 
   <div align="absmiddle"> Science </div>
 </div>
 
-<div align="left", style="float:left;width:45%;">
+<div align="right",>
   <br>
   <img src="https://media0.giphy.com/media/l0HU4vCCdtME0RZlu/giphy.gif", width="40"/> 
   <div align="absmiddle"> Linux </div>
