@@ -68,3 +68,9 @@
 
 </details>
 </div>
+
+
+<figure>
+  <img src="ihttps://media0.giphy.com/media/WQaUiVxSPkp4oZv5Tq/giphy.gif" alt="my img"/>
+  <figcaption> Your text </figcaption>
+</figure>
