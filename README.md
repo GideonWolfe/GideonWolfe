@@ -63,7 +63,7 @@
 </div>
 
 
-<div align="absmiddle",>
+<div align="right",>
   <br>
   <a href="https://gideonwolfe.com/tags/sysadmin/">
   <img src="https://media1.giphy.com/media/WQaUiVxSPkp4oZv5Tq/giphy.gif", width="40"/>
