@@ -47,6 +47,6 @@
 
 
 <div align="right">
-  Science and tech
+  <br> Science and tech
   <img src="https://media0.giphy.com/media/WQaUiVxSPkp4oZv5Tq/giphy.gif", width="40"/> 
 </div>
