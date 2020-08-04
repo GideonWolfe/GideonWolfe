@@ -41,7 +41,7 @@
 </p>
 
 
-<details><summary>🧰 Skills <img align="center" src="https://i.imgur.com/imMOWII.png", width="20"/></summary>
+<details><summary><img align="center" src="https://media0.giphy.com/media/3ohc0UIleTLl2g6PZu/giphy.gif", width="20"/> Skills </summary>
 <p>
 
 | Skills                                  |
