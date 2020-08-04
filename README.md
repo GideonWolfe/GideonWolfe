@@ -25,7 +25,7 @@
 
 
 <p>
-  <a href="https://gideonwolfe.com/"><img width="150" align='right' src="https://media2.giphy.com/media/l49JJ4ttLFZDEodOg/giphy.gif"></a>
+  <a href="https://www.linkedin.com/in/gideon-wolfe/"><img width="150" align='right' src="https://media2.giphy.com/media/l49JJ4ttLFZDEodOg/giphy.gif"></a>
 </p>
 
 <!-- BLOG-POST-LIST:START -->
