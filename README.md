@@ -12,6 +12,11 @@
   <span style=""> <a href="https://www.gideonwolfe.com"> My Website </a> - <a href="https://gideonwolfe.com/files/GideonWolfeCV.pdf"> My Resumé </a><img style="vertical-align:middle" src="https://media0.giphy.com/media/xULW8N1gBOKIWuIka4/giphy.gif", width="40", /></span>
 </h1></div>
 
+
+<p>
+  <a href="https://blog.stephenajulu.com/"><img width="180" align='right' src="https://media2.giphy.com/media/l49JJ4ttLFZDEodOg/giphy.gif"></a>
+</p>
+
 <!-- BLOG-POST-LIST:START -->
 - [Single and Pairwise Mutations and Their Impact on SARS-CoV-2 Proteins](https://gideonwolfe.com/posts/bio/bioinfoproj/project/)
 - [Canvas in the terminal with canvas-tui](https://gideonwolfe.com/posts/workflow/canvas-tui/canvas-tui/)
