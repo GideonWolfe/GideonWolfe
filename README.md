@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GideonWolfe/vim.reaper/master/ascii.png", width="300", height="200"/> <br>
+  <img src="https://media3.giphy.com/media/j0HBMviGyj3JB14qtB/giphy.gif", width="300", height="200"/> <br>
    <img src="https://github-readme-stats.vercel.app/api?username=GideonWolfe&show_icons=true&hide_border=true&count_private=true&theme=tokyonight", width="400"/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GideonWolfe&layout=compact&theme=tokyonight&hide_border=true", width="325"/> <br>
   <img src="https://camo.githubusercontent.com/bad2af01d251f70c8aae488ae5a5123a9bcf72b2/68747470733a2f2f676964656f6e776f6c66652e636f6d2f696d672f676e75706c6f742f7468656d696e672f342e706e67", width="800"/>
@@ -20,11 +20,6 @@
 - [Email in the Terminal: Configuring Neomutt](https://gideonwolfe.com/posts/workflow/neomutt/intro/)
 - [Agents Standing By: Monitoring National Emergencies](https://gideonwolfe.com/posts/sysadmin/huginn/disasters/)
 <!-- BLOG-POST-LIST:END -->
-
-<div><h2>
-<img style="vertical-align:middle" src="https://media0.giphy.com/media/xULW8N1gBOKIWuIka4/giphy.gif", width="40", />
-  <span style=""> <a href="https://gideonwolfe.com/files/GideonWolfeCV.pdf"> My Resumé </a> </span>
-</h2></div>
 
 <details><summary>🧰 Skills</summary>
 <p>
