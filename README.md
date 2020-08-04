@@ -11,7 +11,7 @@
 * [My Resumé](https://gideonwolfe.com/files/GideonWolfeCV.pdf)
 
 
-# 📘 Blog posts
+### 📘 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Single and Pairwise Mutations and Their Impact on SARS-CoV-2 Proteins](https://gideonwolfe.com/posts/bio/bioinfoproj/project/)
 - [Canvas in the terminal with canvas-tui](https://gideonwolfe.com/posts/workflow/canvas-tui/canvas-tui/)
