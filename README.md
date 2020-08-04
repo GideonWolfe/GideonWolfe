@@ -47,6 +47,7 @@
 
 
 <div align="right">
-  <br> Science and tech
+  <br>
   <img src="https://media0.giphy.com/media/WQaUiVxSPkp4oZv5Tq/giphy.gif", width="40"/> 
+  <span style="vertical-align: middle;">Here is some text.</span>
 </div>
