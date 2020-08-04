@@ -13,7 +13,7 @@
 <p><img src="https://media1.giphy.com/media/l0HU7JI4zIb34QM5a/giphy.gif", width="30", /> </p>
 
 
-### 📘 Blog posts
+### <p><img src="https://media1.giphy.com/media/l0HU7JI4zIb34QM5a/giphy.gif", width="30", /> </p> Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Single and Pairwise Mutations and Their Impact on SARS-CoV-2 Proteins](https://gideonwolfe.com/posts/bio/bioinfoproj/project/)
 - [Canvas in the terminal with canvas-tui](https://gideonwolfe.com/posts/workflow/canvas-tui/canvas-tui/)
