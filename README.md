@@ -10,6 +10,11 @@
 * [My Website](https://gideonwolfe.com)
 * [My Resumé](https://gideonwolfe.com/files/GideonWolfeCV.pdf)
 
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <details><summary>Skills 🧰</summary>
 <p>
 
