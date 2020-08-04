@@ -70,7 +70,15 @@
 </div>
 
 
-<figure>
-  <img src="ihttps://media0.giphy.com/media/WQaUiVxSPkp4oZv5Tq/giphy.gif" alt="my img"/>
-  <figcaption> Your text </figcaption>
-</figure>
+<style type="text/css">
+#container { width: 100px; //whatever width you want }
+
+#image {width: 100%; //fill up whole div }
+
+#text { text-align: justify; }    
+</style>
+
+ <div id="container"> 
+     <img src="https://media0.giphy.com/media/WQaUiVxSPkp4oZv5Tq/giphy.gif" id="image" /> 
+     <p id="text">oooh look! text!</p> 
+ </div>
