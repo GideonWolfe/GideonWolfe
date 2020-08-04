@@ -8,6 +8,9 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GideonWolfe&layout=compact&theme=tokyonight&hide_border=true", width="400", height="280"/>
 </p>
   
+  ![](https://camo.githubusercontent.com/bad2af01d251f70c8aae488ae5a5123a9bcf72b2/68747470733a2f2f676964656f6e776f6c66652e636f6d2f696d672f676e75706c6f742f7468656d696e672f342e706e67)
+  
+  
 * [My Website](https://gideonwolfe.com)
 * [My Resumé](https://gideonwolfe.com/files/GideonWolfeCV.pdf)
 
@@ -47,7 +50,7 @@
 </p>
 </details>
 
-![](https://camo.githubusercontent.com/bad2af01d251f70c8aae488ae5a5123a9bcf72b2/68747470733a2f2f676964656f6e776f6c66652e636f6d2f696d672f676e75706c6f742f7468656d696e672f342e706e67)
+
 
 <p align=center>
   <a href="https://gideonwolfe.com">
