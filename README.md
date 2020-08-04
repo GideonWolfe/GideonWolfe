@@ -42,7 +42,7 @@
 
 
 <details><summary><img align="center" src="https://media0.giphy.com/media/3ohc0UIleTLl2g6PZu/giphy.gif", width="40"/> Skills </summary>
-<p>
+
 
 | Skills                                  |
 | --------------------------------------- |
@@ -51,11 +51,11 @@
 | :lock: Security and Hacking             |
 | :test_tube: Science and Technology      |
 
-</p>
+
 </details>
 
 <details><summary>🚀 Hobbies</summary>
-<p>
+
   
 | Hobbies                                  |
 | --------------------------------------- |
@@ -64,5 +64,5 @@
 | :video_game: Gaming             |
 | :test_tube: Research      |
 
-</p>
+
 </details>
