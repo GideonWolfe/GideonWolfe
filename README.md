@@ -44,7 +44,7 @@
 </p>
 
 
-
+<div>
 
 <div align="right">
   <br>
@@ -56,4 +56,6 @@
   <br>
   <img src="https://media0.giphy.com/media/l0HU4vCCdtME0RZlu/giphy.gif", width="40"/> 
   <div align="absmiddle"> Linux </div>
+</div>
+
 </div>
