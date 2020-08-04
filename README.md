@@ -40,9 +40,8 @@
    <img align="center" src="https://i.imgur.com/imMOWII.png", width="600"/>
 </p>
 
-
+<div>
 <details><summary><img align="center" src="https://media0.giphy.com/media/3ohc0UIleTLl2g6PZu/giphy.gif", width="40"/> Skills </summary>
-
 
 | Skills                                  |
 | --------------------------------------- |
@@ -51,8 +50,8 @@
 | :lock: Security and Hacking             |
 | :test_tube: Science and Technology      |
 
-
 </details>
+</div>
 
 <details><summary>🚀 Hobbies</summary>
 
