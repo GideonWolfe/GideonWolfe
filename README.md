@@ -67,8 +67,16 @@
 </div>
 
 
-<div style="width: 100px; float:left; height:100px; background:gray; margin:10px">
-First DIV
+  <div align="center">
+  <h1>
+    <a href="https://gideonwolfe.com/">
+        <img style="vertical-align:middle" src="https://media1.giphy.com/media/xULW8GKlriYjiarBK0/giphy.gif", width="40", />
+    </a>
+      <span style=""> 
+        <a href="https://gideonwolfe.com"> My Website </a> - <a href="https://gideonwolfe.com/files/GideonWolfeCV.pdf"> My Resumé </a>
+        <a href="https://gideonwolfe.com/files/GideonWolfeCV.pdf">
+        <img style="vertical-align:middle" src="https://media0.giphy.com/media/xULW8N1gBOKIWuIka4/giphy.gif", width="40", />
+        </a>
+      </span>
+  </h1>
 </div>
-<div style="width: 100px; float:left; height:100px; background:yellow; margin:10px">
-Second DIV
