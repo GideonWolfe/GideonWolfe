@@ -4,8 +4,8 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/GideonWolfe/vim.reaper/master/ascii.png", width="300", height="200"/> <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=GideonWolfe&show_icons=true&hide_border=true&count_private=true"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GideonWolfe&layout=compact", width="400", height="280"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=GideonWolfe&show_icons=true&hide_border=true&count_private=true&theme=radical"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GideonWolfe&layout=compact&theme=radical", width="400", height="280"/>
 </p>
   
 * [My Website](https://gideonwolfe.com)
