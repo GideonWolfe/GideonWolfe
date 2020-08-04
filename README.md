@@ -7,13 +7,7 @@
 </p>
   
 
-* [My Website](https://gideonwolfe.com)
 * [My Resumé](https://gideonwolfe.com/files/GideonWolfeCV.pdf)
-
-<div><h3>
-<img style="vertical-align:middle" src="https://media3.giphy.com/media/j0HBMviGyj3JB14qtB/giphy.gif", width="30", />
-  <span style=""> <a href="https://www.gideonwolfe.com">Blog Posts</a></span>
-</h3></div>
 
 <div><h1>
 <img style="vertical-align:middle" src="https://media3.giphy.com/media/j0HBMviGyj3JB14qtB/giphy.gif", width="60", />
