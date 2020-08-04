@@ -1,5 +1,3 @@
-<body style="background-color:powderblue;">
-
 
 <p align="center">
   <a href="https://gideonwolfe.com">
@@ -67,5 +65,3 @@
 
 </details>
 </div>
-
-</body>
