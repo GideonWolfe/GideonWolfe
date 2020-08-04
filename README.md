@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/GideonWolfe/vim.reaper/master/ascii.png", width="300", height="200"/> <br>
    <img src="https://github-readme-stats.vercel.app/api?username=GideonWolfe&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GideonWolfe&layout=compact&theme=tokyonight", width="400", height="280"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GideonWolfe&layout=compact&theme=tokyonight&hide_border=true", width="400", height="280"/>
 </p>
   
 * [My Website](https://gideonwolfe.com)
