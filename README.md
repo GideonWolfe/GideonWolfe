@@ -47,38 +47,17 @@
 <div>
   <span style="vertical-align: middle;">
 
-<div align="right">
+<div align="right", style="float:left;width:45%;">
   <br>
   <img src="https://media0.giphy.com/media/WQaUiVxSPkp4oZv5Tq/giphy.gif", width="40"/> 
   <div align="absmiddle"> Science </div>
 </div>
 
-<div align="left">
+<div align="left", style="float:left;width:45%;">
   <br>
   <img src="https://media0.giphy.com/media/l0HU4vCCdtME0RZlu/giphy.gif", width="40"/> 
   <div align="absmiddle"> Linux </div>
 </div>
 
   </span>
-</div>
-
-<div>
-<div style="float:left;width:45%;" >
-    <span>source list</span>
-    <select size="10">
-        <option />
-        <option />
-        <option />
-    </select>
-</div>
-
-<div style="float:right;width:45%;">
-    <span>destination list</span>
-    <select size="10">
-        <option />
-        <option />
-        <option />
-    </select>
-</div>
-<div style="clear:both; font-size:1px;"></div>
 </div>
