@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/GideonWolfe/vim.reaper/master/ascii.png", width="300", height="200"/> <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=GideonWolfe"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=GideonWolfe&show_icons=true&hide_border=true"/>
 </p>
   
 * [My Website](https://gideonwolfe.com)
