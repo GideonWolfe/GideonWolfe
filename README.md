@@ -19,7 +19,7 @@
 
 
 <p>
-  <a href="https://blog.stephenajulu.com/"><img width="150" align='right' src="https://media2.giphy.com/media/l49JJ4ttLFZDEodOg/giphy.gif"></a>
+  <a href="https://gideonwolfe.com/"><img width="150" align='right' src="https://media2.giphy.com/media/l49JJ4ttLFZDEodOg/giphy.gif"></a>
 </p>
 
 <!-- BLOG-POST-LIST:START -->
@@ -60,3 +60,5 @@
 
 </p>
 </details>
+
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
