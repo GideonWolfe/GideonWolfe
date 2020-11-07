@@ -29,11 +29,11 @@
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to add a picom toggle to polybar](https://gideonwolfe.com/posts/workflow/i3/picom/)
 - [xmenu: Desktop Agnostic Menu Utility](https://gideonwolfe.com/posts/workflow/xmenu/)
 - [Single and Pairwise Mutations and Their Impact on SARS-CoV-2 Proteins](https://gideonwolfe.com/posts/bio/bioinfoproj/project/)
 - [Canvas in the terminal with canvas-tui](https://gideonwolfe.com/posts/workflow/canvas-tui/canvas-tui/)
 - [Agents Standing By: Notifications through Telegram](https://gideonwolfe.com/posts/sysadmin/huginn/telegram/)
-- [Email in the Terminal: Configuring Neomutt](https://gideonwolfe.com/posts/workflow/neomutt/intro/)
 <!-- BLOG-POST-LIST:END -->
 
 
